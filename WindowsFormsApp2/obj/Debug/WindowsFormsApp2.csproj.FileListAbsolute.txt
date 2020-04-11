@@ -1,0 +1,8 @@
+A:\Git\Progressbar\WindowsFormsApp2\obj\Debug\BackgroundWorkerSimple.Form1.resources
+A:\Git\Progressbar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+A:\Git\Progressbar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+A:\Git\Progressbar\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+A:\Git\Progressbar\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+A:\Git\Progressbar\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+A:\Git\Progressbar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+A:\Git\Progressbar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
