@@ -1,0 +1,8 @@
+A:\Git\Sample_Progressbar\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+A:\Git\Sample_Progressbar\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+A:\Git\Sample_Progressbar\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+A:\Git\Sample_Progressbar\WindowsFormsApp3\obj\Debug\BackgroundWorkerSimple.Form1.resources
+A:\Git\Sample_Progressbar\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+A:\Git\Sample_Progressbar\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+A:\Git\Sample_Progressbar\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+A:\Git\Sample_Progressbar\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
