@@ -6,3 +6,4 @@ A:\Git\Sample_Progressbar\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties
 A:\Git\Sample_Progressbar\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
 A:\Git\Sample_Progressbar\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
 A:\Git\Sample_Progressbar\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+A:\Git\Sample_Progressbar\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache

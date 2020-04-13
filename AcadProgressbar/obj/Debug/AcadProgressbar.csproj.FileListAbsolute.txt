@@ -1,0 +1,5 @@
+A:\Git\Sample_Progressbar\AcadProgressbar\bin\Debug\AcadProgressbar.dll
+A:\Git\Sample_Progressbar\AcadProgressbar\bin\Debug\AcadProgressbar.pdb
+A:\Git\Sample_Progressbar\AcadProgressbar\obj\Debug\AcadProgressbar.csprojAssemblyReference.cache
+A:\Git\Sample_Progressbar\AcadProgressbar\obj\Debug\AcadProgressbar.dll
+A:\Git\Sample_Progressbar\AcadProgressbar\obj\Debug\AcadProgressbar.pdb
